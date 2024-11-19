@@ -72,7 +72,7 @@ int main()
 		Communication with the user
 		****************************************
 		*/
-		Text text, menu, options;
+		Text text;
 		Font font;
 
 		font.loadFromFile("SparkyStonesRegular-BW6ld.ttf");
